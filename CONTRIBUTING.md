@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing Guidelines
 
-Thank you for your interest in contributing to [Your Project Name]! This project is currently under active development, and we appreciate all help.
+Thank you for your interest in contributing to this project! This project is currently under active development, and we appreciate all help. Please follow these guidelines to get started.
 
 ## How Can I Contribute?
 
