@@ -1,4 +1,4 @@
-# Threat Model: [Project Name]
+# Threat Model & Security Architecture
 
 ## 1. Executive Summary & Scope
 This document outlines the high-level security architecture and potential threat landscape for **[Project Name]**. Its purpose is to help contributors, maintainers, and security auditors understand trust boundaries and design choices.
