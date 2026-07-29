@@ -4,21 +4,21 @@
 
 # 1. Global Default Owner
 # Catches everything in the repository unless overridden below.
-* @your-username
+* @gutiluis
 
 # 2. CI/CD Workflows & Automation
 # Ensures changes to pipeline configurations require explicit review.
-.github/workflows/ @your-username
-.github/CODEOWNERS @your-username
+.github/workflows/ @gutiluis
+.github/CODEOWNERS @gutiluis
 
 # 3. Documentation & Guides
 # Assigns documentation updates to a specific person or team (if applicable).
-/docs/ @your-username
-*.md @your-username
+/docs/ @gutiluis
+*.md @gutiluis
 
 # 4. Dependency & Package Configuration
 # Protects core setup files from unvetted changes.
-/package.json @your-username
-/pnpm-lock.yaml @your-username
-/package-lock.json @your-username
-/yarn.lock @your-username
+/package.json @gutiluis
+/pnpm-lock.yaml @gutiluis
+/package-lock.json @gutiluis
+/yarn.lock @gutiluis
