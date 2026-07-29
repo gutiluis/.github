@@ -12,7 +12,7 @@ Thank you for your interest in contributing to this project! This project is cur
 * Open an issue outlining your feature suggestion, explaining why it would be useful, and how it fits into the scope of the project.
 
 ### Pull Requests
-1. **Fork** the repo and create your branch from `main`/`master`: `git checkout -b feature/my-feature`
+1. **Fork** the repo and create your branch from `main`: `git checkout -b feature/my-feature`
 2. Make your changes and write/run tests if applicable.
 3. Commit your changes using clear commit messages.
 4. Push to your fork and submit a Pull Request to our main branch.
