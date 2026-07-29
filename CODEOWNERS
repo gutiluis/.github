@@ -1,1 +1,24 @@
+# Global CODEOWNERS file for .github organization configuration
+# These rules apply as defaults across repositories that don't override them,
+# or you can adapt them for your primary repositories.
 
+# 1. Global Default Owner
+# Catches everything in the repository unless overridden below.
+* @your-username
+
+# 2. CI/CD Workflows & Automation
+# Ensures changes to pipeline configurations require explicit review.
+.github/workflows/ @your-username
+.github/CODEOWNERS @your-username
+
+# 3. Documentation & Guides
+# Assigns documentation updates to a specific person or team (if applicable).
+/docs/ @your-username
+*.md @your-username
+
+# 4. Dependency & Package Configuration
+# Protects core setup files from unvetted changes.
+/package.json @your-username
+/pnpm-lock.yaml @your-username
+/package-lock.json @your-username
+/yarn.lock @your-username
