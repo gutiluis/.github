@@ -16,3 +16,6 @@ Thank you for your interest in contributing to [Your Project Name]! This project
 2. Make your changes and write/run tests if applicable.
 3. Commit your changes using clear commit messages.
 4. Push to your fork and submit a Pull Request to our main branch.
+
+## Code of Conduct
+By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md)
