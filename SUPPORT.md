@@ -6,7 +6,7 @@ Thank you for using our projects! If you need help, have questions, or want to r
 
 ### 1. Live Chat & Direct Contact (Discord, Slack & Email)
 If you want to reach out in real-time:
-* **Discord:** Join [`technobool Community Discord`](https://discord.gg/5xdAFuadP) directly for quick questions, chats, or real-time help.
+* **Discord:** Join [technobool Community Discord](https://discord.gg/5xdAFuadP) for quick questions, chats, or real-time help.
 * **Slack:** Join our professional workspace at [technobool.slack.com](https://technobbool.slack.com) for team coordination and workspace-specific discussions.
 * **Email:** Reach out directly at **gutluis@proton.me** for direct or formal inquiries.
 
