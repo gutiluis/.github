@@ -20,11 +20,11 @@ If you have a general question or want to pitch an idea where it can be archived
 
 ### 3. Bug Reports & Feature Requests
 If you encounter a bug or want to suggest a new feature:
-* Check the [Issue Tracker](https://github.com/gutiluis/YOUR-PROJECT/issues) to see if it has already been reported.
+* Check the [Issue Tracker](../../issues) to see if it has already been reported.
 * If not, open a new issue using our templates and provide as much detail as possible.
 
 ---
 
 ### 4. Security Vulnerabilities
 If you discover a security vulnerability, **please do not open a public issue, discussion, or message me on chat**. 
-* Report it privately via [GitHub Security Advisories](https://github.com/gutiluis/YOUR-PROJECT/security/advisories/new) or email us directly at **gutiluis@proton.me**.
+* Report it privately via [GitHub Security Advisories](../../security/advisories/new) or email us directly at **gutiluis@proton.me**.
