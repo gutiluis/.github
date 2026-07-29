@@ -34,4 +34,4 @@ We evaluate potential security vectors using the **STRIDE** methodology:
 
 ## 4. Security Reporting
 If you discover a security vulnerability within this project, please **do not open a public issue**. 
-Instead, follow our private reporting guidelines or check our `SECURITY.md` file to report it securely to `@gutiluis`.
+Instead, follow our private reporting guidelines or check our [SECURITY.md](../../SECURITY.md) file to report it securely to [@gutiluis](https://github.com/gutiluis).
