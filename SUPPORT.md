@@ -6,7 +6,7 @@ Thank you for using our projects! If you need help, have questions, or want to r
 
 ### 1. Live Chat & Direct Contact (Discord & Slack)
 If you want to reach out in real-time:
-* **Discord:** Add or message **`technobool`** directly for quick questions, chats, or real-time help.
+* **Discord:** Add or message [`technobool`](https://discord.technobool.com)directly for quick questions, chats, or real-time help.
 * **Slack:** Join our professional workspace at [technobool.slack.com](https://technobbool.slack.com) for team coordination and workspace-specific discussions.
 
 ---
