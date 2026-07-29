@@ -4,21 +4,26 @@ Thank you for using our projects! If you need help, have questions, or want to r
 
 ---
 
-### 1. Questions & General Discussions
-If you have a general question about how to use the project, want to discuss a new idea, or need help troubleshooting your configuration:
-* **GitHub Discussions:** Use the [Discussions tab](https://github.com/gutiluis/YOUR-PROJECT/discussions) on the repository to ask questions and share ideas with the community.
-* *Optional:* [Link to your Discord, Slack, or community chat if you have one].
+### 1. Live Chat & Direct Contact (Discord & Slack)
+If you want to reach out in real-time:
+* **Discord:** Add or message **`goku_41760`** directly for quick questions, chats, or real-time help.
+* **Slack:** Join our professional workspace at [Insert Slack Workspace Link] for team coordination and workspace-specific discussions.
 
 ---
 
-### 2. Bug Reports & Feature Requests
-If you encounter a bug, unexpected behavior, or want to suggest a new feature:
-* Check the [Issue Tracker](https://github.com/gutiluis/YOUR-PROJECT/issues) to see if your problem has already been reported.
-* If it hasn't, open a new issue and choose the appropriate template (Bug Report or Feature Request). Please provide as much detail as possible to help us reproduce the issue.
+### 2. Questions & Asynchronous Discussions
+If you have a general question or want to pitch an idea where it can be archived and searched by others:
+* **GitHub Discussions:** Use the [Discussions tab](https://github.com/gutiluis/YOUR-PROJECT/discussions) on the repository to ask questions and share ideas.
 
 ---
 
-### 3. Security Vulnerabilities
-If you discover a security vulnerability within any of our projects, **please do not open a public issue or discussion**. 
-* Instead, please report it privately via [GitHub Security Advisories](https://github.com/gutiluis/YOUR-PROJECT/security/advisories/new) or email us directly at **gutiluis@proton.me** (or your preferred Proton alias). 
-* We will work with you to address the issue responsibly before any public disclosure.
+### 3. Bug Reports & Feature Requests
+If you encounter a bug or want to suggest a new feature:
+* Check the [Issue Tracker](https://github.com/gutiluis/YOUR-PROJECT/issues) to see if it has already been reported.
+* If not, open a new issue using our templates and provide as much detail as possible.
+
+---
+
+### 4. Security Vulnerabilities
+If you discover a security vulnerability, **please do not open a public issue, discussion, or message me on chat**. 
+* Report it privately via [GitHub Security Advisories](https://github.com/gutiluis/YOUR-PROJECT/security/advisories/new) or email us directly at **gutiluis@proton.me**.
