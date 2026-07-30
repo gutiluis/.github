@@ -5,11 +5,29 @@ Fixes # (issue)
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+  - **What breaks?** (Describe any breaking change here)
 - [ ] Documentation update
 
 ## How Has This Been Tested?
 - [ ] Test A
 - [ ] Test B
+- [ ] Markdown text local preview
+- [ ] Pre-commit hooks
+- [ ] Pytest
+- [ ] Unittest
+- [ ] Bats-core
+- [ ] Shellcheck
+- [ ] Github Actions
+- [ ] Vitest
+- [ ] Flake8
+- [ ] ESLint
+- [ ] Pylint
+- [ ] Black
+- [ ] Lighthouse
+- [ ] Axe-core
+
+## Screenshots / Videos
+- [] Added before/after screenshots if applicable
 
 ## Checklist
 - [ ] My code follows the style guidelines of this project
