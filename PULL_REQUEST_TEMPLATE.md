@@ -8,26 +8,41 @@ Fixes # (issue)
   - **What breaks?** (Describe any breaking change here)
 - [ ] Documentation update
 
+
 ## How Has This Been Tested?
-- [ ] Test A
-- [ ] Test B
-- [ ] Markdown text local preview
-- [ ] Pre-commit hooks
+Please check all boxes that apply to your changes:
+
+## API
+- [ ] Playwright (TypeScript / JavaScript / Python)
+- [ ] Supertest (JavaScript / TypeScript)
+- [ ] Pytest (httpx / requests)
+
+### Backend & Core Logic (Python / Bash)
 - [ ] Pytest
 - [ ] Unittest
-- [ ] Bats-core
-- [ ] Shellcheck
-- [ ] Github Actions
-- [ ] Vitest
-- [ ] Flake8
-- [ ] ESLint
-- [ ] Pylint
-- [ ] Black
+- [ ] Bats-core (Bash testing)
+
+### Frontend & UI (Javascript / Typescript)
+- [ ] Vitest / Jest
+- [ ] Cypress (E2E)
+
+### Linting
+- [ ] Pre-commit hooks
+- [ ] Flake8 / Pylint (Python)
+- [ ] ESLint (JavaScript)
+- [ ] Black (Python)
+- [ ] Shellcheck (Shell)
+
+### Accessibility, SEO & Documentation
 - [ ] Lighthouse
 - [ ] Axe-core
+- [ ] Markdown text local preview
+
+### CI/CD
+- [ ] Github Actions
 
 ## Screenshots / Videos
-- [] Added before/after screenshots if applicable
+- [ ] Added before/after screenshots if applicable (crucial for UI changes)
 
 ## Checklist
 - [ ] My code follows the style guidelines of this project
