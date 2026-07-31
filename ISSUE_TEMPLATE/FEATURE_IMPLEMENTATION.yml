@@ -1,5 +1,5 @@
 name: "Feature Implementation Request"
-description: "Propose and track a comprehensive feature spanning DB, API, Auth, and Frontend."
+description: "Propose and track a comprehensive feature spanning DB, API, Auth, Frontend, and Testing."
 title: "[FEATURE]: "
 labels: ["enhancement", "architecture"]
 assignees: []
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for proposing a new feature! Please fill out the sections below to outline the technical requirements across all layers.
+        Thanks for proposing a new feature! Please fill out the sections below to outline the technical requirements and testing approach across all layers.
 
   - type: textarea
     id: feature-description
@@ -66,16 +66,28 @@ body:
     validations:
       required: false
 
+  - type: textarea
+    id: testing-strategy
+    attributes:
+      label: Testing Strategy
+      description: Describe how this feature will be verified (Unit, Integration, E2E).
+      placeholder: |
+        - Unit Tests: Service layer logic validation
+        - API Tests: Endpoint status codes and response contracts
+        - E2E / UI Tests: Critical user path coverage
+    validations:
+      required: false
+
   - type: checkboxes
     id: acceptance-criteria
     attributes:
       label: Acceptance Criteria & Checklist
-      description: Check off the layers completed before requesting review.
+      description: Check off the layers completed before requesting code review.
       options:
         - label: Database migrations created and tested
         - label: API endpoints implemented and documented
         - label: Authentication & security rules applied
         - label: Frontend UI components built and integrated
-        - label: Unit/Integration tests written
+        - label: Unit, integration, or E2E tests written and passing
     validations:
       required: true
