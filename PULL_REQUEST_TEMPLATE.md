@@ -37,7 +37,7 @@ Please check all boxes that apply to your changes:
 
 ### Linting
 - [ ] Pre-commit hooks
-- [ ] Flake8 / Pylint (Python)
+- [ ] Ruff / Pylint (Python)
 - [ ] ESLint (JavaScript)
 - [ ] Black (Python)
 - [ ] Shellcheck (Shell)
